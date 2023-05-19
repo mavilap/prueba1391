@@ -21,7 +21,7 @@ function App() {
         <h1> Integrantes</h1>
         <h4>Mario Kempes</h4>
         <h4>Diego Maradona</h4>
-        <a href="index.html">Ir al proyecto</a>
+        <a href="tema1.html">Ir al proyecto</a>
 
         
       </div>
